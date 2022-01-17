@@ -1,0 +1,23 @@
+{
+  "name": "product-listing-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SaharMohsni/product-listing-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaharMohsni/product-listing-backend/issues"
+  },
+  "homepage": "https://github.com/SaharMohsni/product-listing-backend#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
