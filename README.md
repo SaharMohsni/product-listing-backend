@@ -6,7 +6,7 @@ A single page application presenting a product store used to add products to the
 This project makes you able to manage product quantity in the basket and you can have the total cost as a result.
 When the quantity reaches 0 the product will be automatically deleted from the basket.
 
- the technologies used for the back-end was JSON-server
+ the technologies used for the back-end was JSON-server and json
 
 
 
